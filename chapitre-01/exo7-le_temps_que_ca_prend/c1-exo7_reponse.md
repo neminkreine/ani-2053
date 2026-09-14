@@ -1,3 +1,4 @@
+La commande tapee a chaque fois est: jenga build --project MonEssai
 Le temps de la premiere construction est: 1m5.9s
 preuve:
 ════════════════════════════════════════════════════════════════════════════════
