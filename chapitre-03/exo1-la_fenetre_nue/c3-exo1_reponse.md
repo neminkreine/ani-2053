@@ -1,1 +1,0 @@
-Le nombre de lignes du programme est de 17 lignes
